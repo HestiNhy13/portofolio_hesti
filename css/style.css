@@ -309,13 +309,13 @@ a:focus {
 /**********************************/
 .header {
     position: relative;
-    background: #ffffff;
+    background: url(../img/hd1.jpg)
 }
 
 .header .content-inner {
     padding: 100px 30px;
-    background: url(../img/hesti2.jpg) right bottom no-repeat;
-    background-size: contain;
+    /* background: url(../img/hesti2.jpg) right bottom no-repeat;
+    background-size: contain; */
 }
 
 .header p {
@@ -326,7 +326,7 @@ a:focus {
 }
 
 .header h1 {
-    color: #222222;
+    color: #ffffff;
     font-size: 50px;
     font-weight: 700;
 }
