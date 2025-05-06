@@ -217,7 +217,7 @@ a:focus {
     
     .sidebar .sidebar-footer a:hover {
         color: #FF6F61;
-        background: #ffffff;
+        background: #0f0f0f;
     }
     
     .sidebar:hover .sidebar-footer {
@@ -399,7 +399,7 @@ a:focus {
 }
 
 .content-header h2 {
-    color: #ffffff;
+    color: #000000;
     font-size: 35px;
     font-weight: 700;
     letter-spacing: 3px;
