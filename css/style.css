@@ -285,7 +285,7 @@ a:focus {
 }
 
 .back-to-top i:hover {
-    color: #FF6F61;
+    color: #0547c0;
 }
 
 .back-to-top {
@@ -314,7 +314,7 @@ a:focus {
 
 .header .content-inner {
     padding: 100px 30px;
-    background: url(../img/profile.png) right bottom no-repeat;
+    background: url(../img/hesti2.jpg) right bottom no-repeat;
     background-size: contain;
 }
 
