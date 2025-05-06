@@ -70,7 +70,7 @@ a:focus {
 }
 
 .navbar-expand-md .navbar-nav .nav-link {
-    color: #000000;
+    color: #f04e4e;
     padding: 5px 15px 7px 15px;
     transition: all .3s;
 }
@@ -207,7 +207,7 @@ a:focus {
         margin: 0 15px 15px 0;
         text-align: center;
         font-size: 18px;
-        color: #222222;
+        color: #e05959;
         background: #FF6F61;
     }
     
